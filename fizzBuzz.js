@@ -1,23 +1,18 @@
-function fizzBuzz(max) {
-  
-  
-  let result = ''
 
-  for(let i = 1 ; i <= max ; i++){
+function fizz(max){
+    let output = '        .      '
+    for(let i = 1; i <= max ; i++ ){
 
-    if( i % 3 === 0 && i % 5 === 0) {
-      result += 'FizzBuzz'
-    }else if(i % 3 === 0) {
-      result +='Fizz'
-    }else if(i % 5 === 0 ) {
-      result += 'Buzz'
-    }else{
-      result += i
+        if( i % 3 === 0){
+            output = 'Fizz'
+        }
+        if( i % 5 === 0){
+            output = 'Buzz'
+        }
+        
+       
     }
-  }
-
-  return result
-
-
+    return output
+   
 }
-module.exports = fizzBuzz
+console.log(fizz(3))
