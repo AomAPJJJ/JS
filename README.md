@@ -11,13 +11,13 @@ git add .
 git commit -m "message"
 git push
 
-[1:56 AM] PEARMAI WANNASIRI
+
 
 ## Set your user and email
 
-git config --global user.name "moodmoon"
+git config --global user.name "AomAPJJJ"
 
-git config --global user.email "pearmai.wann@kmutt.ac.th"
+git config --global user.email "panipak.jong@kmutt.ac.th"
 
 ## Check your config list
 
