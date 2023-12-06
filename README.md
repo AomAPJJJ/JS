@@ -1,6 +1,7 @@
 # JS
-https://github.com/umaporn-sup/todo-app
-https://github.com/GodeFvt/JavaScript_Practice/tree/main/INT201
+* https://github.com/umaporn-sup/todo-app
+* https://github.com/GodeFvt/JavaScript_Practice/tree/main/INT201
+* https://github.com/GodeFvt/JavaScript_Practice/tree/main/quizOld
 
 เช็ค mail
 
